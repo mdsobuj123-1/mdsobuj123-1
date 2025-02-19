@@ -18,9 +18,9 @@
         <h1>📢 Level Up Pass বিক্রয়</h1>
         <img src="your-image-url.jpg" alt="Product Image">
         <p>🔥 <strong>Level Up Pass:</strong> 190৳</p>
-        <p>📅 <strong>Weekly:</strong> 187৳</p>
-        <p>📅 <strong>Monthly:</strong> 830৳</p>
-        <p>📅 <strong>Weekly Lite:</strong> 56৳</p>
+        <p> <strong>Weekly:</strong> 187৳</p>
+        <p> <strong>Monthly:</strong> 830৳</p>
+        <p> <strong>Weekly Lite:</strong> 56৳</p>
         <p class="contact">📞 অর্ডার করতে কল করুন: <strong>0175912968</strong></p>
     </div>
 </body>
